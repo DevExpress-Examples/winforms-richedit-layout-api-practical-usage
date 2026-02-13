@@ -44,7 +44,7 @@ Depending on the type (text block, image, table cell, textbox, etc.) of a clicke
 
 * [Layout API](https://docs.devexpress.com/WindowsForms/114069/controls-and-libraries/rich-text-editor/page-layout/layout-api)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-richedit-layout-api-practical-usage&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-richedit-layout-api-practical-usage&~~~was_helpful=no)
 
